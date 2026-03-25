@@ -33,6 +33,10 @@ The Settings, Appearance, Tools, and Dashboard menus will update immediately.
 
 == Changelog ==
 
+= 1.0.2 =
+* Released 2026-03-25
+* Resolving CSS issues.
+
 = 1.0.1 =
 * Released 2026-03-16
 * Sort top-level menu items too. Core menus remain untouched. The rest are sorted alphabetically.
