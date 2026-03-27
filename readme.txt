@@ -9,7 +9,7 @@ Requires PHP: 7.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Keep WordPress menu items organized and sort items alphabetically, while leaving Core items in place. Automatically sorts Settings, Appearance, Tools, and Dashboard.
+Keep WordPress menu items organized and sort items alphabetically, leaving Core items in place. Sorts Settings, Appearance, Tools, and Dashboard.
 
 == Description ==
 
