@@ -1,6 +1,6 @@
 # Sortacular
 
-[![Static Badge](https://img.shields.io/badge/WordPress.org-Approved-green)](https://github.com/DLXPlugins/sortacular/releases/tag/1.0.1) [![Static Badge](https://img.shields.io/badge/Release%20ZIP%20File-1.0.2-Green)](https://github.com/DLXPlugins/sortacular/releases/download/1.0.2/sortacular.zip)
+[![Static Badge](https://img.shields.io/badge/WordPress.org-Approved-green)](https://wordpress.org/plugins/sortacular/) [![Static Badge](https://img.shields.io/badge/Release%20ZIP%20File-1.0.3-Green)](https://github.com/DLXPlugins/sortacular/releases/download/1.0.3/sortacular.zip)
 
 Alphabetize non-core menu items in the following admin menus:
 
@@ -23,7 +23,7 @@ Alphabetize all non-core top-level menu items by opting in via filter.
 
 ## Installation
 
-[Download Sortacular v1.0.2](https://github.com/DLXPlugins/sortacular/releases/tag/1.0.2)
+[Download Sortacular v1.0.3](https://wordpress.org/plugins/sortacular/)
 
 1. Download Sortacular from the above release. You'll find an attached ZIP that you can download.
 2. Upload the `sortacular` folder to the `/wp-content/plugins/` directory.
