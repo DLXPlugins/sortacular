@@ -1,7 +1,7 @@
-=== Sortacular - Sort and Organize WordPress Admin Menus Instantly ===
+=== Sortacular - Instantly Sort and Organize WordPress Admin Menus Alphabetically ===
 
 Contributors: ronalfy
-Tags: admin, menu, menu order, sort, organize
+Tags: admin menu, menu order, alphabetic, alphabetical, organize
 Requires at least: 6.9
 Tested up to: 7.0
 Stable tag: 1.0.3
